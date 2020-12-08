@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMIChallengesCollection", "LMIChallengesCollection\LMIChallengesCollection.csproj", "{CA2DAD4F-C691-4FFB-A797-4280AF5AA958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMIChallengesCollectionTests", "LMIChallengesCollectionTests\LMIChallengesCollectionTests.csproj", "{7A48807D-68A4-4545-9F26-87CEC48EA15E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA2DAD4F-C691-4FFB-A797-4280AF5AA958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2DAD4F-C691-4FFB-A797-4280AF5AA958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2DAD4F-C691-4FFB-A797-4280AF5AA958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2DAD4F-C691-4FFB-A797-4280AF5AA958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A48807D-68A4-4545-9F26-87CEC48EA15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A48807D-68A4-4545-9F26-87CEC48EA15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A48807D-68A4-4545-9F26-87CEC48EA15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A48807D-68A4-4545-9F26-87CEC48EA15E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59DD2F15-FD1B-4670-9D31-6231180F0480}
+	EndGlobalSection
+EndGlobal
